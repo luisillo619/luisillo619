@@ -5,9 +5,9 @@
 
 - 💬 Preguntame acerca de **HTML 5, CSS 3, Boostrap, SCSS, JavaScript ES6, TypeScript, React, Redux, Node JS, Express, SQL,PostgreSQL,MongoDb,Responsive Web Design.**
 
-- 📫 Puedes contactarme por mi correo: **luiscarlosrangel619@gmail.com**
+- 📫 Enviame mensaje por: **luiscarlosrangel619@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactame:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/luisrangel-lagunes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis carlos rangel lagunes" height="30" width="40" /></a>
 </p>
