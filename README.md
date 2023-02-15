@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Luis Rangel</h1>
-<h3 align="center">I'm a developer Backend and Frontend developer from Mexico</h3>
+<h1 align="center">Hola 👋, Soy Luis Carlos</h1>
+<h3 align="center">Soy un desarollador Full-stack Mexicano</h3>
 
-- 🌱 I’m currently learning **Python, React Native, Jest and C++.**
+- 🌱 Estoy aprendiendo **Java, React Native, Jest and Next.js.**
 
-- 💬 Ask me about **HTML 5, CSS 3, Boostrap, SCSS, JavaScript ES6, TypeScript, React, Redux, Node JS, Express, SQL,PostgreSQL,MongoDb,Responsive Web Design.**
+- 💬 Preguntame acerca de **HTML 5, CSS 3, Boostrap, SCSS, JavaScript ES6, TypeScript, React, Redux, Node JS, Express, SQL,PostgreSQL,MongoDb,Responsive Web Design.**
 
-- 📫 How to reach me **luiscarlosrangel619@gmail.com**
+- 📫 Puedes contactarme por mi correo: **luiscarlosrangel619@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
