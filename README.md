@@ -35,7 +35,7 @@ My main goal is to impact the world with code, proposing solutions to the needs 
 
 ### 📲 Contact Information  
 
-📫 Linkedin: <a href="https://www.linkedin.com/in/luisrangel-lagunes/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/Luisillo619/</a>
+📫 Linkedin: <a href="https://www.linkedin.com/in/luisrangel-lagunes" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/luisrangel-lagunes</a>
 
 📫 Email: luiscarlosrangel619@gmail.com
 <br/>
