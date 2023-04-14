@@ -45,7 +45,7 @@ My main goal is to impact the world with code, proposing solutions to the needs 
 <a href="https://github.com/luisillo619" target="_blank" rel="noopener noreferrer">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/luisillo619" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/luisrangel-lagunes" target="_blank" rel="noopener noreferrer">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
